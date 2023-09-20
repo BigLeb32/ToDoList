@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Main.qml</file>
+        <file>qml/ColoredImage.qml</file>
+        <file>qml/Task.qml</file>
+        <file>qml/TaskInput.qml</file>
+        <file>assets/checkmark_white.png</file>
+        <file>qml/CheckBoxStyle1.qml</file>
+        <file>qml/AppUtil.qml</file>
+        <file>assets/Nunito-Regular.ttf</file>
+    </qresource>
+</RCC>
